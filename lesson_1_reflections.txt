@@ -1,0 +1,14 @@
+Hello world!!!
+
+With history we can quickly find if a bug was introduced because of a recent change.
+We can find in which version a bug or feature was introduced.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+-Pros: More flexible
+      Less chance of getting un compilable code
+      
+-Cons: Depends on the developer to commit properly There is a chance that developer forgot to commit and the changes are lost forever.
+
+
+How can you use the commands git log and git diff to view the history of files?
+-user git log to see the history. then user git diff to compare two version.
